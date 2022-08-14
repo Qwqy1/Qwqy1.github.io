@@ -1,0 +1,38 @@
+body{
+    margin: 0px;
+    background-image: url('./assets2/images/k.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    align-items: center;
+    text-align: center;
+}
+.bn{
+text-align: center;
+margin-top:340px;
+    color: white;
+}
+.bbk{
+    margin-left: 300px;
+    display: flex;
+    align-items: center;
+}
+.aq{
+padding-top: 70px;
+}
+.img{
+    width: 18px;
+    height: 20px;
+    align-items: center;
+}.bdy{
+justify-content: center;
+color: red;
+align-items: center;
+border-width: 10px;
+display: flex;
+
+}.z{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
